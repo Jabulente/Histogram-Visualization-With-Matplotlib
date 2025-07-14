@@ -1,5 +1,7 @@
 <h1 align = 'center'>Histogram-Visualization-With-Matplotlib</h1>
 
+![Default](Outputs/Histogram1.png) 
+
 This repository showcases how to create visually appealing and customized histograms using Python’s Matplotlib and Seaborn libraries. It includes examples of enhancing default plots with colors, fonts, transparency, and layout adjustments to better communicate data distribution insights.
 
 ## 📌 Features
@@ -19,6 +21,12 @@ This repository showcases how to create visually appealing and customized histog
 Below are examples of customized histograms from the project:
 
 
-![Default](assets/default_hist.png) ![Custom](assets/custom_hist.png)
+![Default](assets/default_hist.png)
+
+![Custom](assets/custom_hist.png)
+
+![Default](assets/default_hist.png) 
+
+![Default](assets/default_hist.png) 
 
 > *Images are included in the `Outputs/` folder.*
