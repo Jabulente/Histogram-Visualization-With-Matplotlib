@@ -21,12 +21,28 @@ This repository showcases how to create visually appealing and customized histog
 Below are examples of customized histograms from the project:
 
 
-![Default](assets/default_hist.png)
+![Histogram](Outputs/Histogram6.png)
 
-![Custom](assets/custom_hist.png)
+---
 
-![Default](assets/default_hist.png) 
+![Histogram](Outputs/Histogram5.png)
 
-![Default](assets/default_hist.png) 
+---
+
+![Histogram](Outputs/Histogram4.png)
+
+---
+
+![Histogram](Outputs/Histogram3.png)
+
+---
+
+![Histogram](Outputs/Histogram2.png)
+
+----
+
+![Histogram](Outputs/Histogram1.png)
+
+---
 
 > *Images are included in the `Outputs/` folder.*
